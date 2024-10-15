@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golf_ball/static/css/main.d7c40017.css",
+    "main.js": "/golf_ball/static/js/main.d24fd225.js",
+    "static/js/453.a6a97343.chunk.js": "/golf_ball/static/js/453.a6a97343.chunk.js",
+    "index.html": "/golf_ball/index.html",
+    "main.d7c40017.css.map": "/golf_ball/static/css/main.d7c40017.css.map",
+    "main.d24fd225.js.map": "/golf_ball/static/js/main.d24fd225.js.map",
+    "453.a6a97343.chunk.js.map": "/golf_ball/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c40017.css",
+    "static/js/main.d24fd225.js"
+  ]
+}
